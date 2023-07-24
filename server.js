@@ -17,7 +17,7 @@ require('moment-timezone');
 moment.tz.setDefault("Asia/Calcutta");
 
 function startGIF(cb){
-  const time = "2023-07-24T10:40";
+  const time = "2023-07-24T11:30";
   const width = 180;
   const height = 50;
   const color = "#3355AB";
